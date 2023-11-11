@@ -17,7 +17,7 @@
 }
 .clock {
     /* background-color: blue; */
-    border: 8px solid #91D4C4;
+    border: 8px solid #323047;
     width: 500px;
     height: 220px;
     margin: 350px auto;
@@ -31,8 +31,8 @@
 }
 
 .hours {
-    background-color: #91D4C4;
-    color: #fff;
+    /* background-color: #91D4C4; */
+    color: #323047;
     width: 110px;
     height: 120px;
     line-height: 120px;
@@ -44,7 +44,7 @@
 .colon {
     /* background-color: blue; */
     width: 55px;
-    color: #91D4C4;
+    color: #F85686;
     height: 120px;
     line-height: 120px;
     font-size: 7.2em;
@@ -58,8 +58,8 @@
 }
 
 .minutes {
-    background-color: #91D4C4;
-    color: #fff;
+    /* background-color: #91D4C4; */
+    color: #323047;
     width: 110px;
     height: 120px;
     line-height: 120px;
@@ -93,20 +93,20 @@
 .ampm {
     /* background-color: green; */
     height: 60px;
-    font-size: 3em;
-    color: #91D4C4;
+    font-size: 2cqb;
+    color: #F85686
    
 }
 .ampm p {
-    margin-top: -10px;
+    margin-top: 16px;
 }
 
 
 .seconds {
     height: 60px;
     /* background-color: greenyellow; */
-    font-size: 4.2em;
-    color: #91D4C4;
+    font-size: 2em;
+    color: #F85686;
     margin-top: 8px;
 
 }
